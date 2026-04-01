@@ -52,8 +52,3 @@ The design follows a modular "API-First" approach:
 **Youssef Alkamashany**
 * 🎓 **Computer Science Student** | Modern Academy.
 * 🚀 **Aspiring MLOps & AI Data Engineer**.
-
-[![LinkedIn](www.linkedin.com/in/youssef-alkamashany-18261132b)
-
----
-<p align="center">"Good design is at the heart of every great system." 📐✨</p>
